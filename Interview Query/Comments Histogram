@@ -1,0 +1,45 @@
+# SQL Question
+
+## Source: 
+
+
+## Potential Company: 
+Square
+
+## Skill:
+
+
+## Question:
+Write a SQL query to create a histogram of number of comments per user in the month of January 2020. Assume bin buckets class intervals of one.
+
+## Data Scheme:
+users table
+	id					integer
+	name				string
+	created_at			datetime
+	neighborhood_id		integer
+	mail				string
+
+comments table
+	user_id				integer
+	body				text
+	created_at			datetime
+
+## Possible Assumption:
+- by day in historgram 
+- 
+
+## Logic:
+
+
+- output:
+	comment_count | frequency
+
+
+## Query:
+
+```
+
+```
+
+## Possible Improvement:

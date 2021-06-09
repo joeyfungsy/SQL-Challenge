@@ -17,23 +17,23 @@ Assume that the dataset consists only of unique hosts, meaning there are no dupl
 
 ## Data Scheme:
 airbnb_search_details
-	id 							int
+	id 						int
 	price						float
-	property_type				varchar
+	property_type					varchar
 	room_type					varchar
 	amenities					varchar
-	accommodates				int
+	accommodates					int
 	bathrooms					int
 	bed_type					varchar
-	cancellation_policy			varchar
-	cleaning_fee				bool
+	cancellation_policy				varchar
+	cleaning_fee					bool
 	city						varchar
-	host_identity_verified		varchar
-	host_response_rate			varchar
+	host_identity_verified				varchar
+	host_response_rate				varchar
 	host_since					datetime
-	neighbourhood				varchar
-	number_of_reviews			int
-	review_scores_rating		float
+	neighbourhood					varchar
+	number_of_reviews				int
+	review_scores_rating				float
 	zipcode						int
 	bedrooms					int
 	beds						int
