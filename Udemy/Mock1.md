@@ -1,13 +1,13 @@
 # SQL Question
 
 ## Source: 
-Udemy.com - Mock 1 
+Udemy.com - Mock 1 with Tina Huang
 
 ## Potential Company: 
 Twitter
 
 ## Skill:
-
+Full mock interview including possible follow up questions 
 
 ## Question:
 1. What information would you like to start off by pulling to get an overall understanding of the post feature
@@ -90,4 +90,4 @@ FROM event_success
 GROUP BY 1
 ORDER BY 2 asc
 ```
-## Possible Improvement:
+
